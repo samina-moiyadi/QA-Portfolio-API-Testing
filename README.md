@@ -1,11 +1,29 @@
-# QA Portfolio – API Testing
+## QA Portfolio – API Testing
 
-Explore my API testing collections on GitHub:
+This repository showcases my hands-on API testing work using Postman, covering real-world backend QA scenarios, such as authentication, validation, negative testing, and error handling.
 
-1. DummyJSON – Positive & Negative Testing Pack
-   https://github.com/yourusername/dummyjson-api-testing-pack
+### Included API Testing Packs
 
-2. DummyJSON – Negative Testing Pack
-   https://github.com/yourusername/dummyjson-api-negative-testing-pack
+🔹 **DummyJSON – Positive & Negative Testing Pack**  
+Covers happy-path flows, boundary checks, and response validations  
+👉 https://github.com/samina-moiyadi/dummyjson-api-testing-pack
 
-These collections demonstrate portfolio-ready QA skills including positive & negative testing, assertions, and error-handling scenarios.
+🔹 **DummyJSON – Negative Testing Pack**  
+Focused on invalid inputs, missing fields, and error-handling scenarios  
+👉 https://github.com/samina-moiyadi/dummyjson-api-negative-testing-pack
+
+🔹 **Authentication Testing Pack**  
+Covers login flows, token validation, malformed requests, SQL injection attempts, and security-related edge cases  
+Includes both Postman collections and structured Excel test cases
+👉 https://github.com/samina-moiyadi/dummyjson-api-authentication-testing-pack
+
+### Key Skills Demonstrated
+- API Testing (REST)
+- Authentication & Token Validation
+- Positive & Negative Testing
+- Assertions & Response Validation
+- Manual Test Case Design
+- Backend Error Handling
+- Portfolio-ready QA documentation
+
+This portfolio reflects practical, interview-ready API testing skills aligned with Manual QA and API Testing roles.
